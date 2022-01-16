@@ -1,0 +1,18 @@
+Sun Jan 16 02:02:23 2022
+	Program started
+Sun Jan 16 02:02:23 2022
+	Information added, 3 lines for 490 microseconds
+Sun Jan 16 02:02:23 2022
+	Information printed to file 'report.csv'
+Sun Jan 16 02:02:24 2022
+	Information printed to console
+Sun Jan 16 02:02:24 2022
+	Information added, 3 lines for 379 microseconds
+Sun Jan 16 02:02:24 2022
+	Information printed to console
+Sun Jan 16 02:02:24 2022
+	Database cleared
+Sun Jan 16 02:02:24 2022
+	Information added, 3 lines for 319 microseconds
+Sun Jan 16 02:02:24 2022
+	Information printed to console
